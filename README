@@ -1,4 +1,4 @@
-** A matrix do basic operations including create 
+** A matrix class that does basic operations including create 
 ** matrix from csv file, or 0 matrix from number of columns and rows, output
 ** matrix to ostream properly indented, fetch and assign elements, matrix 
 ** multiplication, transpose, inverse, create identity matrix, fetch height and 
