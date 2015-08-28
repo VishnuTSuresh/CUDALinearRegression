@@ -1,14 +1,16 @@
-** A matrix class that does basic operations including create 
-** matrix from csv file, or 0 matrix from number of columns and rows, output
-** matrix to ostream properly indented, fetch and assign elements, matrix 
-** multiplication, transpose, inverse, create identity matrix, fetch height and 
-** width.
-**
-** Also implements Linear Regression in main function
-**
-** Author: Vishnu T Suresh
-** email: vishnutsuresh@live.com
+## CUDA Linear Regression
+A matrix class that does basic operations including create 
+matrix from csv file, or 0 matrix from number of columns and rows, output
+matrix to ostream properly indented, fetch and assign elements, matrix 
+multiplication, transpose, inverse, create identity matrix, fetch height and 
+width.
 
+Also implements Linear Regression in main function
+
+## Author
+Vishnu T Suresh ( vishnutsuresh@live.com )
+
+## Usage
 To use make sure you have CUDA 4.2 and CULA Dense R15 installed (all the environment variables must be set and shared libraries visible).
 
 then:
